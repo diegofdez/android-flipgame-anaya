@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlipGame/FlipGame.iml" filepath="$PROJECT_DIR$/FlipGame/FlipGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlipGameProject.iml" filepath="$PROJECT_DIR$/FlipGameProject.iml" />
+    </modules>
+  </component>
+</project>
+
